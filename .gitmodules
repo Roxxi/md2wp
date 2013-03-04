@@ -1,0 +1,3 @@
+[submodule "lib/xsl"]
+	path = lib/xsl
+	url = https://github.com/Roxxi/xsl.git
